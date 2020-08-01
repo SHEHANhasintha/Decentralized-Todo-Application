@@ -1,4 +1,5 @@
-
+## installation
+you can git clone my repository and you need to make sure you have ganache intalled in order to make the connection to local block-chain network.
 
 ## Available Scripts
 
